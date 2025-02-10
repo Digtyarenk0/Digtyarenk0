@@ -2,11 +2,7 @@
 <h3 align="center">Frontend / Backaned developer</h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=FOLLOW+THE+WHITE+RABBIT." alt="Typing SVG" /></a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dightyarenk0/Dightyarenk0/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dightyarenk0/Dightyarenk0/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dightyarenk0/Dightyarenk0/output/github-contribution-grid-snake.svg">
-</picture>
+![Snake animation](https://raw.githubusercontent.com/Digtyarenk0/Digtyarenk0/output/github-contribution-grid-snake-dark.svg)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Digtyarenk0&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Digtyarenk0&theme=github_dark)
