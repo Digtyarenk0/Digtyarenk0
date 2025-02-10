@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Valdyslav</h1>
+<h2 align="center">Hi 👋, I'm Valdyslav</h1>
 <h3 align="center">Frontend / Backaned developer</h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=FOLLOW+THE+WHITE+RABBIT." alt="Typing SVG" /></a>
 
 ![Snake animation](https://raw.githubusercontent.com/Digtyarenk0/Digtyarenk0/output/github-contribution-grid-snake-dark.svg)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=FOLLOW+THE+WHITE+RABBIT." alt="Typing SVG" /></a>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Digtyarenk0&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Digtyarenk0&theme=github_dark)
