@@ -20,7 +20,7 @@ I am a Full Stack Developer with over 4 years of experience building scalable, h
 </p>
 
 
-🛠️ My Tech Stack
+## 🛠️ My Tech Stack
 <table>
 <tr>
 <td valign="top" width="50%">
