@@ -13,8 +13,6 @@ I'm a Computer Science graduate 🎓 from KHNURE 🏛 with a strong passion for 
 - Latest project: [Waffle](https://github.com/Digtyarenk0/waffle) - Telegram Multichain Wallet MiniApp
 - 📫 How to reach me: [Email](digtyarenk0@icloud.com)
 
-<img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
-
 ## My stack:
 
 - 5+ years of experience in React, Nest.js, PostgresSQL
@@ -68,17 +66,7 @@ I'm a Computer Science graduate 🎓 from KHNURE 🏛 with a strong passion for 
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" alt="webpack logo"  /></code>
 </div>
 
-## My Journey
-
-<div>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Digtyarenk0&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Digtyarenk0&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Digtyarenk0&theme=github_dark)
-
 </div>
 
-## Feeding...
-
 ![Snake animation](https://raw.githubusercontent.com/Digtyarenk0/Digtyarenk0/output/github-contribution-grid-snake-dark.svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=12&duration=5002&pause=1000&color=45F700&width=435&lines=FOLLOW+THE+WHITE+RABBIT.)](https://git.io/typing-svg)
+
